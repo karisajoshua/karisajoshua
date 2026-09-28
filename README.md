@@ -75,6 +75,7 @@ These are learning and contribution goals, not completed research credentials.
 
 ## Connect
 
+- [Portfolio](https://karisajoshua.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/joshua-karisa-b0b684163/)
 - [GitHub](https://github.com/karisajoshua)
 - [Texcortech Systems](https://texcortech.co.ke/)
