@@ -27,7 +27,7 @@ The stack below reflects my CV and project work. My depth varies by tool; the li
 
 **CRM, automation and collaboration**
 
-![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-1F2937?style=flat-square&logo=hubspot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1F2937?style=flat-square) ![AI-Assisted Workflows](https://img.shields.io/badge/AI-Assisted_Workflows-1F2937?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-1F2937?style=flat-square&logo=jira&logoColor=white)
+![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-1F2937?style=flat-square&logo=hubspot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1F2937?style=flat-square) ![AI-Assisted Workflows](https://img.shields.io/badge/AI--Assisted_Workflows-1F2937?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-1F2937?style=flat-square&logo=jira&logoColor=white)
 
 **Security validation and analysis**
 
