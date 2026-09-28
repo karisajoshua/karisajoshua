@@ -19,9 +19,9 @@ I'm exploring how my software engineering experience can contribute to **technic
 | --- | --- | --- |
 | [MalwareScannerService](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Implementation and security approach |
 | [Simple Encryption Tool](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and documentation |
-| [AWS Resume API Challenge](https://github.com/karisajoshua/security_resume) | Cloud architecture study | Design notes and an explicit implementation checklist; code and deployment are pending |
-| [Trading Analysis Web App](https://github.com/karisajoshua/trading-analysis-web-app) | Data-oriented application development | Architecture and implementation status |
-| [Trading Analysis Extension](https://github.com/karisajoshua/Trading-Analysis-Extension) | Browser tooling | Extension design and code |
+| [Trading Analysis Extension](https://github.com/karisajoshua/Trading-Analysis-Extension) | Browser tooling | Extension and backend source |
+| [Blue Flame Cargo](https://github.com/karisajoshua/blueflamecargo) | Client web application | React source and deployment configuration |
+| [Masterpiece Invoice Pro](https://github.com/karisajoshua/masterpiece-invoice-pro) | Business application | React source and Supabase-related files |
 
 *These links are examples of public engineering work, not claims of completed AI safety research. Each repository's code and documentation are the source of truth for implementation status.*
 
