@@ -10,7 +10,7 @@ I'm exploring how my software engineering experience can contribute to **technic
 
 - **Software development:** Full-stack applications, API integrations and practical business tools
 - **Security:** Security-oriented software projects and an interest in threat modeling and secure development
-- **Cloud and delivery:** Serverless architecture, infrastructure-as-code and automated deployment, as documented in my projects
+- **Cloud and delivery:** Cloud architecture and deployment practices, with implementation status documented in each project
 - **Engineering quality:** Reproducible setup, testing, code review and clear technical documentation
 
 ## Selected public repositories
@@ -19,7 +19,7 @@ I'm exploring how my software engineering experience can contribute to **technic
 | --- | --- | --- |
 | [MalwareScannerService](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Implementation and security approach |
 | [Simple Encryption Tool](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and documentation |
-| [AWS Resume API Challenge](https://github.com/karisajoshua/security_resume) | Cloud and backend engineering | Documented Lambda, DynamoDB, Terraform and deployment workflow |
+| [AWS Resume API Challenge](https://github.com/karisajoshua/security_resume) | Cloud architecture study | Design notes and an explicit implementation checklist; code and deployment are pending |
 | [Trading Analysis Web App](https://github.com/karisajoshua/trading-analysis-web-app) | Data-oriented application development | Architecture and implementation status |
 | [Trading Analysis Extension](https://github.com/karisajoshua/Trading-Analysis-Extension) | Browser tooling | Extension design and code |
 
