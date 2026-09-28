@@ -13,6 +13,26 @@ I'm exploring how my software engineering experience can contribute to **technic
 - **Cloud and delivery:** Cloud architecture and deployment practices, with implementation status documented in each project
 - **Engineering quality:** Reproducible setup, testing, code review and clear technical documentation
 
+## Technologies I work with
+
+The stack below reflects my CV and project work. My depth varies by tool; the linked repositories show concrete implementation where public code is available.
+
+**Applications and backend**
+
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-1F2937?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-1F2937?style=flat-square&logo=springsecurity&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1F2937?style=flat-square&logo=supabase&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1F2937?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Cloud, delivery and infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-1F2937?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-1F2937?style=flat-square&logo=ansible&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
+
+**CRM, automation and collaboration**
+
+![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-1F2937?style=flat-square&logo=hubspot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1F2937?style=flat-square) ![AI-Assisted Workflows](https://img.shields.io/badge/AI-Assisted_Workflows-1F2937?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-1F2937?style=flat-square&logo=jira&logoColor=white)
+
+**Security validation and analysis**
+
+![Splunk](https://img.shields.io/badge/Splunk-1F2937?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-1F2937?style=flat-square&logo=wazuh&logoColor=white) ![Carbon Black](https://img.shields.io/badge/Carbon_Black-1F2937?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1F2937?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-1F2937?style=flat-square&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-1F2937?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1F2937?style=flat-square&logo=burpsuite&logoColor=white) ![AWS Security](https://img.shields.io/badge/AWS_Security-1F2937?style=flat-square&logo=amazonaws&logoColor=white) ![Azure Security](https://img.shields.io/badge/Azure_Security-1F2937?style=flat-square&logo=microsoftazure&logoColor=white)
+
 ## Selected public repositories
 
 | Project | Engineering area | What to inspect |
