@@ -22,48 +22,6 @@ I build **web applications, APIs, business platforms and security-conscious syst
 
 I am also developing deeper capability in **technical AI safety**, especially AI evaluations, security, research engineering and reliable deployment. I distinguish production experience from areas I am actively learning.
 
-### `$ current_focus --tree`
-
-```text
-engineering/
-├── full-stack-systems
-├── application-security
-├── cloud-and-delivery
-├── APIs-and-integrations
-├── AI-and-automation
-└── technical-AI-safety
-    ├── evaluations
-    ├── security-and-red-teaming
-    └── reliability-and-oversight
-```
-
-### `$ ls ./toolbox`
-
-**Applications & Backend**
-
-![React](https://skillicons.dev/icons?i=react,nodejs,java,spring,ts,js,supabase&theme=dark)
-
-**Cloud, DevOps & Infrastructure**
-
-![Cloud](https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,terraform,ansible,github,git&theme=dark)
-
-**Security & Engineering**
-
-`Burp Suite` · `Wireshark` · `Nmap` · `Nessus` · `Wazuh` · `Splunk` · `REST APIs` · `CI/CD`
-
-### `$ ./featured-projects --engineering`
-
-| Project | Engineering focus | What it demonstrates |
-| --- | --- | --- |
-| [**Sprints**](https://github.com/karisajoshua/sprints) | Project / program systems | Authenticated workspaces, organization context, Scrum/startup/NGO dashboards, projects, teams and invitations |
-| [**Africa Vision Workspace**](https://github.com/karisajoshua/africa-vision-workspace) | Collaborative SaaS | Protected project, task, team, document, calendar, reporting, messaging and department workflows |
-| [**Symbiont**](https://github.com/karisajoshua/symbiont) | Data / AI prototype | Geographic reporting, Supabase report feeds and AI-assisted sentiment analysis |
-| [**MalwareScannerService**](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Malware-scanning implementation and security-oriented engineering |
-| [**Simple Encryption Tool**](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and technical documentation |
-| [**Texcortech Systems**](https://github.com/karisajoshua/texcortech) | Production web engineering | Multi-page company experience, case-study routing and Supabase-backed server functions |
-
-> Repositories are the source of truth for implementation status. Prototype functionality is identified as such rather than presented as production capability.
-
 ### `$ ./engineering-governance --explain`
 
 I am interested in **open-source projects focused on autonomous engineering governance, software security, AI-assisted engineering, and human oversight of automated systems**. My current work explores how specialized tools can observe repository health, identify engineering and security deficiencies, propose controlled and reviewable improvements, independently evaluate those proposed changes using CI, risk and security evidence, and preserve human authority over consequential decisions. Projects such as **ProjectPulse, RepoGuardian and PRPilot** are practical experiments in this direction, helping me explore separation of duties, least-privilege automation, explainable recommendations, measurable software-quality improvement and responsible use of autonomous engineering workflows.
@@ -106,6 +64,48 @@ Suppose ProjectPulse detects that a repository is missing a security policy. Pro
 **Separation of duties is intentional:** the bot that measures the problem is not the bot that fixes it; the bot that proposes the fix is not the bot that reviews it; and no bot is the final merge authority.
 
 > **Current integration status:** ProjectPulse and RepoGuardian are implemented, and PRPilot's event-driven advisory path is under live validation. The repositories and pull requests remain the source of truth for operational status.
+
+### `$ current_focus --tree`
+
+```text
+engineering/
+├── full-stack-systems
+├── application-security
+├── cloud-and-delivery
+├── APIs-and-integrations
+├── AI-and-automation
+└── technical-AI-safety
+    ├── evaluations
+    ├── security-and-red-teaming
+    └── reliability-and-oversight
+```
+
+### `$ ls ./toolbox`
+
+**Applications & Backend**
+
+![React](https://skillicons.dev/icons?i=react,nodejs,java,spring,ts,js,supabase&theme=dark)
+
+**Cloud, DevOps & Infrastructure**
+
+![Cloud](https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,terraform,ansible,github,git&theme=dark)
+
+**Security & Engineering**
+
+`Burp Suite` · `Wireshark` · `Nmap` · `Nessus` · `Wazuh` · `Splunk` · `REST APIs` · `CI/CD`
+
+### `$ ./featured-projects --engineering`
+
+| Project | Engineering focus | What it demonstrates |
+| --- | --- | --- |
+| [**Sprints**](https://github.com/karisajoshua/sprints) | Project / program systems | Authenticated workspaces, organization context, Scrum/startup/NGO dashboards, projects, teams and invitations |
+| [**Africa Vision Workspace**](https://github.com/karisajoshua/africa-vision-workspace) | Collaborative SaaS | Protected project, task, team, document, calendar, reporting, messaging and department workflows |
+| [**Symbiont**](https://github.com/karisajoshua/symbiont) | Data / AI prototype | Geographic reporting, Supabase report feeds and AI-assisted sentiment analysis |
+| [**MalwareScannerService**](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Malware-scanning implementation and security-oriented engineering |
+| [**Simple Encryption Tool**](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and technical documentation |
+| [**Texcortech Systems**](https://github.com/karisajoshua/texcortech) | Production web engineering | Multi-page company experience, case-study routing and Supabase-backed server functions |
+
+> Repositories are the source of truth for implementation status. Prototype functionality is identified as such rather than presented as production capability.
 
 ### `$ project-pulse --portfolio`
 
