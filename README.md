@@ -69,6 +69,8 @@ engineering/
 <!-- PROJECT-PULSE:START -->
 > Automated, read-only repository-health snapshot powered by [ProjectPulse](https://github.com/karisajoshua/project-pulse).
 
+**Bot status:** Authorization warning — account credential returned no private repositories
+
 **32** maintained repositories · **32 public** · **0 private** · **44/100** combined observable health
 
 Portfolio distribution: **2** excellent · **0** healthy · **8** need attention · **22** critical · Public-only average: **44/100**
@@ -79,7 +81,7 @@ Portfolio distribution: **2** excellent · **0** healthy · **8** need attention
 | [project-pulse](https://github.com/karisajoshua/project-pulse) | **100/100** | Excellent |
 | [symbiont](https://github.com/karisajoshua/symbiont) | **63/100** | Needs attention |
 
-<sub>No private repositories were visible to this workflow token. Observable score covers documentation, licensing, CI, security policy, contribution guidance and recent maintenance. It does not execute repository code. Updated 2026-10-05 UTC.</sub>
+<sub>Private repository identities are never published. Account-level authorization is required for private aggregation. Observable score covers documentation, licensing, CI, security policy, contribution guidance and recent maintenance. It does not execute repository code. Updated 2026-10-05 UTC.</sub>
 <!-- PROJECT-PULSE:END -->
 
 ### `$ github --stats`
