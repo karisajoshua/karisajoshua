@@ -69,15 +69,17 @@ engineering/
 <!-- PROJECT-PULSE:START -->
 > Automated, read-only repository-health snapshot powered by [ProjectPulse](https://github.com/karisajoshua/project-pulse).
 
-**32** maintained public repositories · **44/100** average observable health · **2** excellent · **0** healthy · **8** need attention · **22** critical
+**32** maintained repositories · **32 public** · **0 private** · **44/100** combined observable health
 
-| Repository | Health | Status |
+Portfolio distribution: **2** excellent · **0** healthy · **8** need attention · **22** critical · Public-only average: **44/100**
+
+| Public repository | Health | Status |
 | --- | ---: | --- |
 | [codesentryx](https://github.com/karisajoshua/codesentryx) | **100/100** | Excellent |
 | [project-pulse](https://github.com/karisajoshua/project-pulse) | **100/100** | Excellent |
 | [symbiont](https://github.com/karisajoshua/symbiont) | **63/100** | Needs attention |
 
-<sub>Observable profile score covers documentation, licensing, CI, security policy, contribution guidance and recent maintenance. It does not execute repository code. Updated 2026-10-05 UTC.</sub>
+<sub>No private repositories were visible to this workflow token. Observable score covers documentation, licensing, CI, security policy, contribution guidance and recent maintenance. It does not execute repository code. Updated 2026-10-05 UTC.</sub>
 <!-- PROJECT-PULSE:END -->
 
 ### `$ github --stats`
