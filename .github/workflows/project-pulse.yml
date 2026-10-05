@@ -28,7 +28,7 @@ jobs:
       - name: Generate Engineering Pulse
         run: node /tmp/profile-pulse.mjs > /tmp/project-pulse.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROJECT_PULSE_TOKEN || secrets.GITHUB_TOKEN }}
           PULSE_OWNER: karisajoshua
 
       - name: Update bounded profile section
