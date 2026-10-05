@@ -30,6 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROJECT_PULSE_TOKEN || secrets.GITHUB_TOKEN }}
           PULSE_OWNER: karisajoshua
+          PULSE_CREDENTIAL_MODE: ${{ secrets.PROJECT_PULSE_TOKEN != '' && 'account-token' || 'repository-token' }}
 
       - name: Update bounded profile section
         run: |
