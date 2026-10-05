@@ -90,6 +90,18 @@ My software engineering background gives me a practical entry point into AI reli
 
 These are active learning and contribution goals—not claims of completed AI-safety research credentials.
 
+### `$ ./contributions --visualize`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karisajoshua/karisajoshua/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karisajoshua/karisajoshua/output/github-contribution-grid-snake.svg">
+  <img alt="Joshua Karisa contribution graph animation" src="https://raw.githubusercontent.com/karisajoshua/karisajoshua/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 ### `$ connect --with joshua`
 
 <div align="center">
