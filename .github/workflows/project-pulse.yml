@@ -1,0 +1,62 @@
+name: Update Engineering Pulse
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 5 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-project-pulse
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch trusted ProjectPulse generator
+        run: |
+          curl --fail --silent --show-error --location \
+            https://raw.githubusercontent.com/karisajoshua/project-pulse/main/scripts/profile-pulse.mjs \
+            --output /tmp/profile-pulse.mjs
+
+      - name: Generate Engineering Pulse
+        run: node /tmp/profile-pulse.mjs > /tmp/project-pulse.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PULSE_OWNER: karisajoshua
+
+      - name: Update bounded profile section
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs')
+          const path = 'README.md'
+          const readme = fs.readFileSync(path, 'utf8')
+          const generated = fs.readFileSync('/tmp/project-pulse.md', 'utf8').trim()
+          const start = '<!-- PROJECT-PULSE:START -->'
+          const end = '<!-- PROJECT-PULSE:END -->'
+          const startIndex = readme.indexOf(start)
+          const endIndex = readme.indexOf(end)
+          if (startIndex < 0 || endIndex < 0 || endIndex < startIndex) {
+            throw new Error('ProjectPulse profile markers are missing or invalid')
+          }
+          const updated = readme.slice(0, startIndex) + generated + readme.slice(endIndex + end.length)
+          fs.writeFileSync(path, updated)
+          NODE
+
+      - name: Commit snapshot when changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Engineering Pulse is already current."
+            exit 0
+          fi
+          git config user.name "project-pulse[bot]"
+          git config user.email "project-pulse[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(profile): refresh engineering pulse"
+          git push
