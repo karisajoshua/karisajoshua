@@ -1,83 +1,101 @@
-# Joshua Karisa Kitsao
+<div align="center">
 
-### Software Engineer | Security-Conscious Systems | Exploring Technical AI Safety
+# `joshua@github:~$ whoami`
 
-I'm a Kenya-based software engineer building web applications, APIs and business platforms. My engineering interests include secure systems, cloud infrastructure, reliable integrations and responsible deployment of emerging technologies.
+## Joshua Karisa
 
-I'm exploring how my software engineering experience can contribute to **technical AI safety**, particularly the infrastructure, evaluation tooling and security practices needed to make AI systems more reliable. I distinguish existing engineering experience from AI safety topics I'm currently learning.
+**Software Engineer · Security-Conscious Systems · Cloud · AI & Automation**
 
-## Engineering focus
+`Building secure, production-minded digital systems.`
 
-- **Software development:** Full-stack applications, API integrations and practical business tools
-- **Security:** Security-oriented software projects and an interest in threat modeling and secure development
-- **Cloud and delivery:** Cloud architecture and deployment practices, with implementation status documented in each project
-- **Engineering quality:** Reproducible setup, testing, code review and clear technical documentation
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://karisajoshua.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-karisa-b0b684163/)
+[![Texcortech](https://img.shields.io/badge/Texcortech_Systems-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://texcortech.co.ke/)
 
-## Technologies I work with
+</div>
 
-The stack below reflects my CV and project work. My depth varies by tool; the linked repositories show concrete implementation where public code is available.
+---
 
-**Applications and backend**
+### `$ cat engineering_profile.txt`
 
-![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-1F2937?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-1F2937?style=flat-square&logo=springsecurity&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1F2937?style=flat-square&logo=supabase&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1F2937?style=flat-square&logo=apachekafka&logoColor=white)
+I build **web applications, APIs, business platforms and security-conscious systems**. My work spans full-stack engineering, cloud delivery, integrations, automation and applied security.
 
-**Cloud, delivery and infrastructure**
+I am also developing deeper capability in **technical AI safety**, especially AI evaluations, security, research engineering and reliable deployment. I distinguish production experience from areas I am actively learning.
 
-![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-1F2937?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-1F2937?style=flat-square&logo=ansible&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
+### `$ current_focus --tree`
 
-**CRM, automation and collaboration**
+```text
+engineering/
+├── full-stack-systems
+├── application-security
+├── cloud-and-delivery
+├── APIs-and-integrations
+├── AI-and-automation
+└── technical-AI-safety
+    ├── evaluations
+    ├── security-and-red-teaming
+    └── reliability-and-oversight
+```
 
-![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-1F2937?style=flat-square&logo=hubspot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1F2937?style=flat-square) ![AI-Assisted Workflows](https://img.shields.io/badge/AI--Assisted_Workflows-1F2937?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-1F2937?style=flat-square&logo=jira&logoColor=white)
+### `$ ls ./toolbox`
 
-**Security validation and analysis**
+**Applications & Backend**
 
-![Splunk](https://img.shields.io/badge/Splunk-1F2937?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-1F2937?style=flat-square&logo=wazuh&logoColor=white) ![Carbon Black](https://img.shields.io/badge/Carbon_Black-1F2937?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1F2937?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-1F2937?style=flat-square&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-1F2937?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1F2937?style=flat-square&logo=burpsuite&logoColor=white) ![AWS Security](https://img.shields.io/badge/AWS_Security-1F2937?style=flat-square&logo=amazonaws&logoColor=white) ![Azure Security](https://img.shields.io/badge/Azure_Security-1F2937?style=flat-square&logo=microsoftazure&logoColor=white)
+![React](https://skillicons.dev/icons?i=react,nodejs,java,spring,ts,js,supabase&theme=dark)
 
-## Complex systems
+**Cloud, DevOps & Infrastructure**
 
-| Project | Scope and evidence | Status |
+![Cloud](https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,terraform,ansible,github,git&theme=dark)
+
+**Security & Engineering**
+
+`Burp Suite` · `Wireshark` · `Nmap` · `Nessus` · `Wazuh` · `Splunk` · `REST APIs` · `CI/CD`
+
+### `$ ./featured-projects --engineering`
+
+| Project | Engineering focus | Evidence |
 | --- | --- | --- |
-| [Zest Insurance platform](https://github.com/karisajoshua/pixel-perfect-clone-94206-250aa43a) | Multi-agency insurance application with client and vehicle records, quotations, policies, invoices, renewals, reporting, agency administration, automation, and integration modules. The repository includes application routes, server functions, database migrations, and DMVIC integration work. | Active development; individual integrations and production behavior need their own verification. |
-| [Symbiont](https://github.com/karisajoshua/symbiont) | Social sentiment and geographic reporting prototype with dashboards, maps, a Supabase report feed, and an AI analysis function that processes sample posts. | Prototype: several live-looking dashboard feeds use simulated data; social platform ingestion is not demonstrated in this repository. |
+| [**Zest Insurance Platform**](https://github.com/karisajoshua/pixel-perfect-clone-94206-250aa43a) | Full-stack / InsurTech | Client, vehicle, quotation, policy, invoice, renewal, reporting and integration workflows |
+| [**Symbiont**](https://github.com/karisajoshua/symbiont) | Data / AI prototype | Dashboards, geographic reporting, Supabase feeds and AI-assisted analysis |
+| [**MalwareScannerService**](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Malware-scanning implementation and security-oriented architecture |
+| [**Simple Encryption Tool**](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and technical documentation |
+| [**Trading Analysis Extension**](https://github.com/karisajoshua/Trading-Analysis-Extension) | Browser tooling | Extension and backend implementation |
+| [**Masterpiece Invoice Pro**](https://github.com/karisajoshua/masterpiece-invoice-pro) | Business systems | React application with Supabase-related implementation |
 
-## Selected public repositories
+> Repositories are the source of truth for implementation status. Prototype functionality is identified as such rather than presented as production capability.
 
-| Project | Engineering area | What to inspect |
-| --- | --- | --- |
-| [MalwareScannerService](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Implementation and security approach |
-| [Simple Encryption Tool](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and documentation |
-| [Trading Analysis Extension](https://github.com/karisajoshua/Trading-Analysis-Extension) | Browser tooling | Extension and backend source |
-| [Blue Flame Cargo](https://github.com/karisajoshua/blueflamecargo) | Client web application | React source and deployment configuration |
-| [Masterpiece Invoice Pro](https://github.com/karisajoshua/masterpiece-invoice-pro) | Business application | React source and Supabase-related files |
+### `$ github --stats`
 
-*These links are examples of public engineering work, not claims of completed AI safety research. Each repository's code and documentation are the source of truth for implementation status.*
+<div align="center">
 
-## Why I'm exploring AI safety
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karisajoshua&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Joshua Karisa GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karisajoshua&layout=compact&hide_border=true&theme=github_dark" alt="Joshua Karisa top languages" />
 
-My background is in building applications and integrating systems. I want to apply that engineering foundation to questions of **reliability, security, evaluation and responsible deployment** as AI becomes more capable.
+<img src="https://streak-stats.demolab.com?user=karisajoshua&theme=github-dark-blue&hide_border=true" alt="Joshua Karisa GitHub streak" />
 
-Areas I'm interested in developing further:
+</div>
 
-1. **AI evaluations:** Building reproducible tools and test harnesses that reveal system limitations.
-2. **AI security and red-teaming:** Learning how to investigate failure modes and test defenses.
-3. **Research engineering:** Improving the reliability and usability of tools that support safety research.
-4. **AI control and oversight:** Understanding technical approaches for monitoring and constraining AI systems.
+### `$ cat principles.md`
 
-These are learning and contribution goals, not completed research credentials.
+- **Security by design** — protect credentials, data boundaries and privileged operations.
+- **Evidence over claims** — let code, tests and documentation demonstrate capability.
+- **Reproducibility** — document setup, architecture and important engineering decisions.
+- **Traceability** — use version control, review and automation to make changes auditable.
+- **Production thinking** — design for reliability, maintainability and observable failure modes.
+- **Responsible AI** — evaluate limitations and safety properties rather than assuming model reliability.
 
-## Engineering principles
+### `$ ./ai-safety --status learning+building`
 
-- Make implementation status and limitations explicit.
-- Write reproducible setup instructions and document architectural decisions.
-- Protect credentials and sensitive data.
-- Prefer measurable tests over unsupported performance claims.
-- Use version control, review and automation to make changes traceable.
+My software engineering background gives me a practical entry point into AI reliability and security. I am developing capability in **evaluation tooling, AI security/red-teaming, research engineering, and technical approaches to control and oversight**.
 
-## Connect
+These are active learning and contribution goals—not claims of completed AI-safety research credentials.
 
-- [Portfolio](https://karisajoshua.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/joshua-karisa-b0b684163/)
-- [GitHub](https://github.com/karisajoshua)
-- [Texcortech Systems](https://texcortech.co.ke/)
+### `$ connect --with joshua`
 
-I'm open to collaboration on software engineering projects and opportunities to develop practical technical AI safety skills.
+<div align="center">
+
+[**Portfolio**](https://karisajoshua.github.io/) · [**LinkedIn**](https://www.linkedin.com/in/joshua-karisa-b0b684163/) · [**Texcortech Systems**](https://texcortech.co.ke/) · [**GitHub**](https://github.com/karisajoshua)
+
+`open_to = ["software engineering", "security", "AI systems", "technical collaboration"]`
+
+</div>
