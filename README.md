@@ -20,11 +20,11 @@
 
 I build **web applications, APIs, business platforms and security-conscious systems**. My work spans full-stack engineering, cloud delivery, integrations, automation and applied security.
 
-I am also developing deeper capability in **technical AI safety**, especially AI evaluations, security, research engineering and reliable deployment. I distinguish production experience from areas I am actively learning.
+I am also building hands-on capability in **LLM engineering and technical AI safety**, including retrieval-augmented generation (RAG), vector search, controlled agent/tool calling, evaluations, observability, security and reliable deployment. I distinguish production experience from areas I am actively learning.
 
 ### `$ ./engineering-governance --explain`
 
-I am interested in **open-source projects focused on autonomous engineering governance, software security, AI-assisted engineering, and human oversight of automated systems**. My current work explores how specialized tools can observe repository health, identify engineering and security deficiencies, propose controlled and reviewable improvements, independently evaluate those proposed changes using CI, risk and security evidence, and preserve human authority over consequential decisions. Projects such as **ProjectPulse, RepoGuardian and PRPilot** are practical experiments in this direction, helping me explore separation of duties, least-privilege automation, explainable recommendations, measurable software-quality improvement and responsible use of autonomous engineering workflows.
+I am interested in **open-source projects focused on autonomous engineering governance, software security, AI-assisted engineering, and human oversight of automated systems**. My current work explores how specialized tools can observe repository health, identify engineering and security deficiencies, propose controlled and reviewable improvements, independently evaluate those proposed changes using CI, risk and security evidence, and preserve human authority over consequential decisions. Projects such as **ProjectPulse, RepoGuardian, PRPilot and SentinelRAG** are practical experiments in this direction, helping me explore separation of duties, least-privilege automation, explainable recommendations, measurable software-quality improvement and responsible use of autonomous engineering workflows.
 
 | Bot | Role | What it does | What it cannot do |
 | --- | --- | --- | --- |
@@ -74,6 +74,9 @@ engineering/
 ├── cloud-and-delivery
 ├── APIs-and-integrations
 ├── AI-and-automation
+│   ├── LLM-APIs-and-RAG
+│   ├── vector-search
+│   └── controlled-agent-tool-calling
 └── technical-AI-safety
     ├── evaluations
     ├── security-and-red-teaming
@@ -98,6 +101,7 @@ engineering/
 
 | Project | Engineering focus | What it demonstrates |
 | --- | --- | --- |
+| [**SentinelRAG**](https://github.com/karisajoshua/sentinel-rag) | Applied AI / LLM engineering | Python, FastAPI, RAG, embeddings, pgvector, evidence-grounded Q&A, controlled tool boundaries, evaluation, observability and containerized deployment architecture |
 | [**Sprints**](https://github.com/karisajoshua/sprints) | Project / program systems | Authenticated workspaces, organization context, Scrum/startup/NGO dashboards, projects, teams and invitations |
 | [**Africa Vision Workspace**](https://github.com/karisajoshua/africa-vision-workspace) | Collaborative SaaS | Protected project, task, team, document, calendar, reporting, messaging and department workflows |
 | [**Symbiont**](https://github.com/karisajoshua/symbiont) | Data / AI prototype | Geographic reporting, Supabase report feeds and AI-assisted sentiment analysis |
@@ -149,7 +153,7 @@ Portfolio distribution: **2** excellent · **0** healthy · **8** need attention
 
 ### `$ ./ai-safety --status learning+building`
 
-My software engineering background gives me a practical entry point into AI reliability and security. I am developing capability in **evaluation tooling, AI security/red-teaming, research engineering, and technical approaches to control and oversight**.
+My software engineering background gives me a practical entry point into AI reliability and security. Through **SentinelRAG**, I am applying that foundation to RAG pipelines, evidence-grounded LLM responses, vector retrieval, controlled tool boundaries, evaluation and observability while continuing to develop capability in **AI security/red-teaming, research engineering, and technical approaches to control and oversight**.
 
 These are active learning and contribution goals—not claims of completed AI-safety research credentials.
 
