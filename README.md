@@ -64,6 +64,14 @@ engineering/
 
 > Repositories are the source of truth for implementation status. Prototype functionality is identified as such rather than presented as production capability.
 
+### `$ project-pulse --portfolio`
+
+<!-- PROJECT-PULSE:START -->
+> **ProjectPulse automation is being commissioned.** This section is reserved for its verified, read-only engineering-health snapshot.
+
+[View ProjectPulse](https://github.com/karisajoshua/project-pulse)
+<!-- PROJECT-PULSE:END -->
+
 ### `$ github --stats`
 
 <div align="center">
