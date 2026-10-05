@@ -64,6 +64,49 @@ engineering/
 
 > Repositories are the source of truth for implementation status. Prototype functionality is identified as such rather than presented as production capability.
 
+### `$ ./engineering-governance --explain`
+
+I am building an **open-source engineering governance system** in which specialized bots observe repository health, propose controlled improvements, independently review those proposals, and preserve human authority over consequential changes.
+
+| Bot | Role | What it does | What it cannot do |
+| --- | --- | --- | --- |
+| [**ProjectPulse**](https://github.com/karisajoshua/project-pulse) | Observer | Measures repository health across CI, tests, documentation, security policy, licensing, contribution guidance and maintenance signals | Does not remediate repositories |
+| [**RepoGuardian**](https://github.com/karisajoshua/repo-guardian) | Remediator | Converts supported findings into deterministic remediation plans and reviewable patches on isolated `repoguardian/*` branches | Cannot silently write fixes to `main` or merge its own work |
+| [**PRPilot**](https://github.com/karisajoshua/Pr-pilot) | Independent reviewer | Examines proposed changes, CI evidence, branch isolation, changed paths and security-sensitive scope, then issues an explainable recommendation | Cannot merge a pull request or replace human approval |
+
+#### How the bots work together
+
+```text
+Repository
+    │
+    ▼
+ProjectPulse ── observe / score / explain
+    │
+    │ structured health findings
+    ▼
+RepoGuardian ── plan / patch / open Draft PR
+    │
+    │ reviewable proposal on isolated branch
+    ▼
+PRPilot ─────── independent CI / risk / security review
+    │
+    │ approve recommendation / changes recommended /
+    │ manual review required
+    ▼
+Human ───────── merge or reject
+    │
+    ▼
+ProjectPulse ── measure again and verify improvement
+```
+
+#### A live example
+
+Suppose ProjectPulse detects that a repository is missing a security policy. ProjectPulse reports the failed control but does not modify the repository. RepoGuardian can map that supported finding to a deterministic `SECURITY.md` patch, create an isolated remediation branch, and open a **Draft Pull Request**. The PR event activates PRPilot, which independently checks the proposal and available CI/risk evidence. PRPilot posts an advisory recommendation, but the process still stops at the human approval boundary. After an approved change is merged, ProjectPulse can score the repository again to determine whether the intervention produced a measurable improvement.
+
+**Separation of duties is intentional:** the bot that measures the problem is not the bot that fixes it; the bot that proposes the fix is not the bot that reviews it; and no bot is the final merge authority.
+
+> **Current integration status:** ProjectPulse and RepoGuardian are implemented, and PRPilot's event-driven advisory path is under live validation. The repositories and pull requests remain the source of truth for operational status.
+
 ### `$ project-pulse --portfolio`
 
 <!-- PROJECT-PULSE:START -->
