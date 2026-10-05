@@ -53,14 +53,14 @@ engineering/
 
 ### `$ ./featured-projects --engineering`
 
-| Project | Engineering focus | Evidence |
+| Project | Engineering focus | What it demonstrates |
 | --- | --- | --- |
-| [**Zest Insurance Platform**](https://github.com/karisajoshua/pixel-perfect-clone-94206-250aa43a) | Full-stack / InsurTech | Client, vehicle, quotation, policy, invoice, renewal, reporting and integration workflows |
-| [**Symbiont**](https://github.com/karisajoshua/symbiont) | Data / AI prototype | Dashboards, geographic reporting, Supabase feeds and AI-assisted analysis |
-| [**MalwareScannerService**](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Malware-scanning implementation and security-oriented architecture |
+| [**Sprints**](https://github.com/karisajoshua/sprints) | Project / program systems | Authenticated workspaces, organization context, Scrum/startup/NGO dashboards, projects, teams and invitations |
+| [**Africa Vision Workspace**](https://github.com/karisajoshua/africa-vision-workspace) | Collaborative SaaS | Protected project, task, team, document, calendar, reporting, messaging and department workflows |
+| [**Symbiont**](https://github.com/karisajoshua/symbiont) | Data / AI prototype | Geographic reporting, Supabase report feeds and AI-assisted sentiment analysis |
+| [**MalwareScannerService**](https://github.com/karisajoshua/MalwareScannerService) | Security engineering | Malware-scanning implementation and security-oriented engineering |
 | [**Simple Encryption Tool**](https://github.com/karisajoshua/Simple-Encryption-Tool) | Applied security | Encryption implementation and technical documentation |
-| [**Trading Analysis Extension**](https://github.com/karisajoshua/Trading-Analysis-Extension) | Browser tooling | Extension and backend implementation |
-| [**Masterpiece Invoice Pro**](https://github.com/karisajoshua/masterpiece-invoice-pro) | Business systems | React application with Supabase-related implementation |
+| [**Texcortech Systems**](https://github.com/karisajoshua/texcortech) | Production web engineering | Multi-page company experience, case-study routing and Supabase-backed server functions |
 
 > Repositories are the source of truth for implementation status. Prototype functionality is identified as such rather than presented as production capability.
 
