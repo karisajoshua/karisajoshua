@@ -66,7 +66,7 @@ engineering/
 
 ### `$ ./engineering-governance --explain`
 
-I am building an **open-source engineering governance system** in which specialized bots observe repository health, propose controlled improvements, independently review those proposals, and preserve human authority over consequential changes.
+I am interested in **open-source projects focused on autonomous engineering governance, software security, AI-assisted engineering, and human oversight of automated systems**. My current work explores how specialized tools can observe repository health, identify engineering and security deficiencies, propose controlled and reviewable improvements, independently evaluate those proposed changes using CI, risk and security evidence, and preserve human authority over consequential decisions. Projects such as **ProjectPulse, RepoGuardian and PRPilot** are practical experiments in this direction, helping me explore separation of duties, least-privilege automation, explainable recommendations, measurable software-quality improvement and responsible use of autonomous engineering workflows.
 
 | Bot | Role | What it does | What it cannot do |
 | --- | --- | --- | --- |
