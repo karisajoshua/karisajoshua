@@ -101,6 +101,7 @@ engineering/
 
 | Project | Engineering focus | What it demonstrates |
 | --- | --- | --- |
+| **Zest Insurance Management System** | InsurTech / full-stack integration engineering | Multi-agency insurance workflows, customer and policy management, DMVIC integration foundation, certificate processing and automation under development; React, TanStack Start and Supabase. [Technical documentation](https://github.com/karisajoshua/pixel-perfect-clone-94206-250aa43a/tree/main/docs) (repository access may be restricted) |
 | [**SentinelRAG**](https://github.com/karisajoshua/sentinel-rag) | Applied AI / LLM engineering | Python, FastAPI, RAG, embeddings, pgvector, evidence-grounded Q&A, controlled tool boundaries, evaluation, observability and containerized deployment architecture |
 | [**Sprints**](https://github.com/karisajoshua/sprints) | Project / program systems | Authenticated workspaces, organization context, Scrum/startup/NGO dashboards, projects, teams and invitations |
 | [**Africa Vision Workspace**](https://github.com/karisajoshua/africa-vision-workspace) | Collaborative SaaS | Protected project, task, team, document, calendar, reporting, messaging and department workflows |
