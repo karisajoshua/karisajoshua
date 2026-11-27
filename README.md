@@ -4,7 +4,7 @@
 
 ## Joshua Karisa
 
-**Software Engineer · Security-Conscious Systems · Cloud · AI & Automation**
+**Software Engineer · Full-Stack & Ecommerce · Security · Cloud · AI & Automation**
 
 `Building secure, production-minded digital systems.`
 
@@ -18,9 +18,34 @@
 
 ### `$ cat engineering_profile.txt`
 
-I build **web applications, APIs, business platforms and security-conscious systems**. My work spans full-stack engineering, cloud delivery, integrations, automation and applied security.
+I build **web applications, APIs, business platforms and security-conscious systems**. My work spans full-stack engineering, B2B and B2C ecommerce, cloud delivery, integrations, automation and applied security.
 
 I am also building hands-on capability in **LLM engineering and technical AI safety**, including retrieval-augmented generation (RAG), vector search, controlled agent/tool calling, evaluations, observability, security and reliable deployment. I distinguish production experience from areas I am actively learning.
+
+### `$ ./featured-projects --commerce`
+
+My commercial engineering work covers B2B wholesale, B2C retail, multi-vendor marketplaces, ecommerce administration and business workflow automation.
+
+#### [Barakaz](https://barakaz.com) — B2B & B2C marketplace
+
+**Role:** Full-stack ecommerce developer, end-to-end platform delivery and team enablement.
+
+- Architected and developed a multi-vendor marketplace with wholesale and retail functionality.
+- Implemented vendor onboarding, administrative and vendor dashboards, catalogue management, checkout, shipping and fulfilment workflows.
+- Designed database architecture and access controls; integrated HubSpot CRM and n8n automation.
+- Prepared technical documentation and user guides and trained the Canadian team on platform administration and day-to-day operations.
+
+#### Leo’s Shop — Canadian retail ecommerce
+
+Designed and developed a children's apparel and footwear platform with responsive storefronts, product variations, search, cart and checkout, administration, CMS and n8n workflows.
+
+#### Alladin — Magento ecommerce
+
+Supported development and partial administration of a Magento ecommerce website in 2022.
+
+**Relevant tools:** Magento, React, TypeScript, PostgreSQL, Supabase, REST APIs, n8n, HubSpot, Mailchimp, Canva and Figma.
+
+Client source code and internal documentation remain private. Project demonstrations can be provided where appropriate.
 
 ### `$ ./engineering-governance --explain`
 
@@ -70,6 +95,7 @@ Suppose ProjectPulse detects that a repository is missing a security policy. Pro
 ```text
 engineering/
 ├── full-stack-systems
+├── ecommerce-and-wholesale
 ├── application-security
 ├── cloud-and-delivery
 ├── APIs-and-integrations
@@ -176,6 +202,6 @@ These are active learning and contribution goals—not claims of completed AI-sa
 
 [**Portfolio**](https://karisajoshua.github.io/) · [**LinkedIn**](https://www.linkedin.com/in/joshua-karisa-b0b684163/) · [**Texcortech Systems**](https://texcortech.co.ke/) · [**GitHub**](https://github.com/karisajoshua)
 
-`open_to = ["software engineering", "security", "AI systems", "technical collaboration"]`
+`open_to = ["software engineering", "ecommerce", "security", "AI systems", "technical collaboration"]`
 
 </div>
